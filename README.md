@@ -1,1 +1,1 @@
-# spree2
+# spree

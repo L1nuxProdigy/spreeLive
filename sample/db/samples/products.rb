@@ -5,74 +5,74 @@ clothing = Spree::TaxCategory.find_by!(name: 'Clothing')
 
 products = [
   {
-    name: 'Ruby on Rails Tote',
+    name: 'Avishai Ish-Shalom​',
     tax_category: clothing,
     price: 15.99,
     eur_price: 14
   },
   {
-    name: 'Ruby on Rails Bag',
+    name: 'Yaron Amir',
     tax_category: clothing,
     price: 22.99,
     eur_price: 19
   },
   {
-    name: 'Ruby on Rails Baseball Jersey',
+    name: 'Andrei Burd',
     tax_category: clothing,
     price: 19.99,
     eur_price: 16
   },
   {
-    name: 'Ruby on Rails Jr. Spaghetti',
+    name: 'Arie Belenki',
     tax_category: clothing,
     price: 19.99,
     eur_price: 16
 
   },
   {
-    name: 'Ruby on Rails Ringer T-Shirt',
+    name: 'Ariel Moskovich​',
     tax_category: clothing,
     price: 19.99,
     eur_price: 16
   },
   {
-    name: 'Ruby Baseball Jersey',
+    name: 'Eyal Stoler',
     tax_category: clothing,
     price: 19.99,
     eur_price: 16
   },
   {
-    name: 'Apache Baseball Jersey',
+    name: 'Gai Radzi',
     tax_category: clothing,
     price: 19.99,
     eur_price: 16
   },
   {
-    name: 'Spree Baseball Jersey',
+    name: 'Lev Andelman',
     tax_category: clothing,
     price: 19.99,
     eur_price: 16
   },
   {
-    name: 'Spree Jr. Spaghetti',
+    name: 'Tom Sender',
     tax_category: clothing,
     price: 19.99,
     eur_price: 16
   },
   {
-    name: 'Spree Ringer T-Shirt',
+    name: 'Omri Niv',
     tax_category: clothing,
     price: 19.99,
     eur_price: 16
   },
   {
-    name: 'Spree Tote',
+    name: 'Mickey Shaul',
     tax_category: clothing,
     price: 15.99,
     eur_price: 14
   },
   {
-    name: 'Spree Bag',
+    name: 'logo',
     tax_category: clothing,
     price: 22.99,
     eur_price: 19
